@@ -35,16 +35,15 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
     
 ### Wykorzystaj:
 - **Wzorzec odwiedzający** do aktualizacji danych o produktach u sprzedawców oraz parametrów kupujących.
+	Przykład implelntacji wzorca odwiedzający w Java: [link](https://refactoring.guru/pl/design-patterns/visitor/java/example).
 - **Wzorzec obserwator** do pasywnego obserwowania następujących zmian:
     - Sprzedawcy i Kupujący obserwują Bank Centralny by dowiedzieć się jaki jest poziom inflacji
     - Kupujący obserwują oferty Sprzedawców i mogą na nie reagować ale nie muszą
 	- Bank Centralny obserwuje Sprzedawców i Kupujących, by korygować algorytm inflacyjny utrzymujący 
 	stałe wpływy podatkowe.
-
+  Przykład implementacji wzorca obserwator w Java: [link](https://refactoring.guru/pl/design-patterns/observer/java/example).
+  
 Zaimplementowana gra turowa powinna po wielu turach stabilizować się na poziomach będących celem poszczególnych grup uczestników.
-
-Przykład implementacji wzorca obserwator w Java: [link](https://refactoring.guru/pl/design-patterns/observer/java/example).
-Przykład implelntacji wzorca odwiedzający w Java: [link](https://refactoring.guru/pl/design-patterns/visitor/java/example).
 	
 ### Uwaga 1
 Projekt powinien również zawierać odpowiednie testy jednostkowe do implementowanej funkcjonalności.
