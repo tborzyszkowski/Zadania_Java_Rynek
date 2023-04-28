@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 10.06.2022  23:00   |    10      |
+| 26.05.2023  23:00   |    10      |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -23,14 +23,16 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 
 - **Kupujący** posiadają potrzeby, zasady i pieniądze. 
     Obserwują oferty produktów na rynku. Ich zachowanie opisują następujące reguły:
-    - chcą kupić określone produkty i śledzą ich ceny ale nie muszą ich kupić natychmiast
+    - chcą kupić określone produkty (podzielone na: pierwszej potrzeby i luksusowe) i śledzą ich ceny ale nie muszą ich kupić natychmiast (można ustalić ile produktów pierwszej potrzeby 
+    wymagane jest do przeżycia)
     - mają wiedzę o skali inflacji
     - ich skłonność do zakupu produktu spada wraz z rosnącą ceną produktu, 
-	niezależnie czy wzrost cen był spowodowany inflacją czy marżą.
+	niezależnie czy wzrost cen był spowodowany inflacją czy marżą
+    - celem **Kupującego** jest zaspokojenie swoich potrzeb jak najmniejszym kosztem, mieszcząc się w budżecie
     
 - **Bank Centralny** obserwuje wzrost cen produktów oraz obroty na rynku.
     Ustala bieżący poziom inflacji. Bank stara się utrzymać stałe wpływy podatkowe liczone jako 
-    iloczyn inflacji i obrotów przy danej inflacji.
+    iloczyn inflacji i obrotów przy danej inflacji. Przygotować odpowiednie testy sprawdzające stabilność wpływów Banku oraz ich odporność na zakłócenia.
     
     
 ### Wykorzystaj:
